@@ -1,2 +1,2 @@
 # dio-repositorio-git-github
-Desafio de Projeto DIO
+Criação de repositório para o Desafio de Projeto DIO do módulo GIT/GITHUB
